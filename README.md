@@ -1,2 +1,2 @@
-# desjun.github.io
-Github website project
+# Desiree B. Junfijiah
+## This is my Github Website Project! 
