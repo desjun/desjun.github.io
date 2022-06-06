@@ -1,2 +1,2 @@
 # Desiree B. Junfijiah
-## This is my Github Website Project! 
+## This is my GitHub Website Project! 
